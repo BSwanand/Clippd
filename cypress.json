@@ -1,0 +1,7 @@
+{
+  "projectId": "cerddd",
+  "chromeWebSecurity": false,
+  "viewportWidth": 1366,
+  "viewportHeight": 768,
+  "baseUrl": "https://dev-purple.dev.clippd.com/"
+}
